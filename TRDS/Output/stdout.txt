@@ -1,0 +1,35 @@
+>>> 
+
+LMFIT report:
+
+[[Variables]]
+    T_E1:   162.362903 +/- 1.384517 (0.85%) (init= 150)
+    T_E2:   627.848782 +/- 10.05684 (1.60%) (init= 200)
+    T_D:    139.987926 +/- 1.707381 (1.22%) (init= 100)
+    A:      1.7580e-07 +/- 2.66e-08 (15.12%) (init= 1e-07)
+[[Correlations]] (unreported correlations are <  0.100)
+    C(T_E1, T_D)                 = -0.925 
+    C(T_E2, A)                   =  0.853 
+    C(T_E1, T_E2)                = -0.330 
+    C(T_E2, T_D)                 =  0.252 
+    C(T_E1, A)                   = -0.172 
+    C(T_D, A)                    =  0.134 
+
+How many bootstrapping iterations? 500
+
+Bootstrap report:
+
+T_E1 = 162.4 	( - 28.1441 % / + 1.8747 % )
+T_E2 = 624.7 	( - 6.4539 % / + 5.6205 % )
+T_D = 139.6 	( - 2.6402 % / + 55.4453 % )
+A = 1.74e-07 	( - 48.1723 % / + 57.8946 % )
+
+Runs test:
+
+ Numbers of points:
+ n_m = 68 
+ n_p = 79 
+
+Observed number of runs n_R = 5 
+Expected number of runs R = 74.088 +/- 6.007 
+The standard normal distribution score Z = -11.417
