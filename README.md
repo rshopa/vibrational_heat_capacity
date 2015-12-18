@@ -9,7 +9,7 @@ Rb<sub>3</sub>D(SO<sub>4</sub>)<sub>2</sub> and lead germanate Pb<sub>5</sub>Ge<
 A full decomposition of the temperature dependence of vibrational heat capacity at constant pressure in wide temperature range was made 
 in order to obtain the excess heat capacity. This procedure affords studying of 2nd-order phase transitions that occur in both compounds.
 
-The environment for the code is crucial (especially about lmfit package version), specified here:
+The environment for the code is crucial (especially about lmfit package version) and specified below:
 
 > Windows 7 SP1 x64, Python 3.3.0
 
